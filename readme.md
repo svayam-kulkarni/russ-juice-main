@@ -1,5 +1,7 @@
-Student name: Svayam Kulkarni
+Student name: Svayam Kulkarni 
+
 website link : [click here](https://svayam-kulkarni.github.io/russ-juice-main/)
+
 RUSS Cold Pressed Juice is a premium, small-batch beverage venture focused on delivering fresh, nutrient-rich juice with a strong emphasis on quality, process, and brand positioning. The core product is a cold-pressed blend of watermelon, beetroot, and carrot (WBC), carefully designed to provide natural hydration, sustained energy, and a clean start to the day without the need for added sugar or preservatives. A key aspect of the business lies in its commitment to the cold-pressing method, which avoids heat and oxidation, thereby retaining more nutrients, flavour, and freshness compared to conventional blending techniques. This not only enhances the product’s health appeal but also serves as a primary point of differentiation in a competitive beverage market.
 
 The business operates on a limited, pre-order-based model, producing only a fixed number of bottles per drop to ensure maximum freshness and quality control. This controlled supply approach also creates a sense of exclusivity, positioning RUSS as a curated wellness product rather than a mass-market drink. Each release is treated as a small, intentional batch, reinforcing the idea that the product is crafted rather than manufactured. Pricing is set at a premium yet accessible level, reflecting both the quality of ingredients and the value derived from the cold-pressed process, aligning with a value-based pricing strategy.
