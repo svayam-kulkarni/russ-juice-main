@@ -320,6 +320,23 @@ h1, h2, h3 {
   justify-content: center;
 }
 
+/* Bottle image */
+.hero__bottle {
+  width: 260px;
+  height: 360px;
+  object-fit: cover;
+  object-position: center 10%;
+  border-radius: 50%;
+  box-shadow:
+    0 0 0 2px rgba(255, 255, 255, 0.18),
+    0 0 30px  6px rgba(210, 60,  40, 0.30),
+    0 0 70px 16px rgba(190, 40,  25, 0.22),
+    0 0 120px 30px rgba(160, 30, 20, 0.16),
+    0 24px 64px rgba(100, 10, 5, 0.28);
+  animation: float 6.5s ease-in-out infinite;
+  will-change: transform;
+}
+
 @keyframes float {
   0%, 100% { transform: translateY(0px); }
   50%       { transform: translateY(-16px); }
